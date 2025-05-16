@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hey there 🌸 I'm [Your Name]!</h1>
+<h1 align="center">Hey there 🌸 I'm Jasmine Timilsina!</h1>
 <p align="center">
   ✨ UI/UX Designer | 🌱 Learning Front-End Dev<br>
   I love making things beautiful, simple, and user-friendly.
