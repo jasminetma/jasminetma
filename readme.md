@@ -1,7 +1,7 @@
 <!-- README.md for jasminetma -->
 
 <h1 align="center">🌸 Jasmine Timilsina 🌸</h1>
-<h3 align="center">UI/UX Designer | Front-End Learner | Aesthetic Enthusiast</h3>
+<h3 align="center">UI/UX Learner | Front-End Learner | Aesthetic Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&color=babypink&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Designing+delightful+user+experiences;Learning+to+code+with+pastel+vibes;Crafting+clean+%26+playful+UI+everyday" alt="Typing animation" />
